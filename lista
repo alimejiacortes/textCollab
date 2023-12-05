@@ -5,6 +5,5 @@ void start(){
 void update(){
 Debug.Log("Ali Mejia");
 Debug.Log("Juan Garcia);
-Debug.Log ("Maya Mares")
-Debug.Log("Lacoladematias");
+Debu.log (Rene Dah);
 }
