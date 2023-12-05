@@ -6,3 +6,4 @@ void update(){
 Debug.Log("Ali Mejia");
 Debug.Log("Juan Garcia);
 }
+Debug.Log("ALAN BARRERA);
