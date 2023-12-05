@@ -1,5 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ValidationCache Version="1" SchemaVersion="110">
+	<ValidationCacheItem File="Y:\Downloads\textCollab-main\shareProject\Virtual Acoustics\Default Work Unit.wwu" DateLow="1701816107" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Downloads\textCollab-main\shareProject\Triggers\Default Work Unit.wwu" DateLow="1701816107" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Downloads\textCollab-main\shareProject\Switches\Default Work Unit.wwu" DateLow="1701816107" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Downloads\textCollab-main\shareProject\States\Default Work Unit.wwu" DateLow="1701816107" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Downloads\textCollab-main\shareProject\Soundcaster Sessions\Default Work Unit.wwu" DateLow="1701816107" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Downloads\textCollab-main\shareProject\SoundBanks\Default Work Unit.wwu" DateLow="1701816107" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Downloads\textCollab-main\shareProject\shareProject.wproj" DateLow="1701816107" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Downloads\textCollab-main\shareProject\shareProject.crossover.wsettings" DateLow="1701816107" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Downloads\textCollab-main\shareProject\Queries\Factory Queries.wwu" DateLow="1701816107" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Downloads\textCollab-main\shareProject\Queries\Default Work Unit.wwu" DateLow="1701816107" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Downloads\textCollab-main\shareProject\Presets\Factory Spatial Audio.wwu" DateLow="1701816107" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Downloads\textCollab-main\shareProject\Presets\Default Work Unit.wwu" DateLow="1701816107" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Downloads\textCollab-main\shareProject\Modulators\Default Work Unit.wwu" DateLow="1701816107" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Downloads\textCollab-main\shareProject\Mixing Sessions\Default Work Unit.wwu" DateLow="1701816107" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Downloads\textCollab-main\shareProject\Metadata\Default Work Unit.wwu" DateLow="1701816107" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Downloads\textCollab-main\shareProject\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1701816107" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Downloads\textCollab-main\shareProject\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="1701816107" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Downloads\textCollab-main\shareProject\Game Parameters\Default Work Unit.wwu" DateLow="1701816107" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Downloads\textCollab-main\shareProject\Events\Default Work Unit.wwu" DateLow="1701816107" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Downloads\textCollab-main\shareProject\Effects\Factory Effects.wwu" DateLow="1701816107" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Downloads\textCollab-main\shareProject\Effects\Default Work Unit.wwu" DateLow="1701816107" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Downloads\textCollab-main\shareProject\Dynamic Dialogue\Default Work Unit.wwu" DateLow="1701816107" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Downloads\textCollab-main\shareProject\Conversion Settings\Factory Conversion Settings.wwu" DateLow="1701816107" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Downloads\textCollab-main\shareProject\Conversion Settings\Default Work Unit.wwu" DateLow="1701816107" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Downloads\textCollab-main\shareProject\Control Surface Sessions\Default Work Unit.wwu" DateLow="1701816107" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Downloads\textCollab-main\shareProject\Audio Devices\Default Work Unit.wwu" DateLow="1701816107" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Downloads\textCollab-main\shareProject\Attenuations\Default Work Unit.wwu" DateLow="1701816107" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Downloads\textCollab-main\shareProject\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1701816107" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Downloads\textCollab-main\shareProject\Actor-Mixer Hierarchy\Ambientes.wwu" DateLow="1701816107" DateHigh="0"/>
 	<ValidationCacheItem File="Y:\Documents\WwiseProjects\shareProject\Virtual Acoustics\Default Work Unit.wwu" DateLow="1701811357" DateHigh="0"/>
 	<ValidationCacheItem File="Y:\Documents\WwiseProjects\shareProject\Triggers\Default Work Unit.wwu" DateLow="1701811357" DateHigh="0"/>
 	<ValidationCacheItem File="Y:\Documents\WwiseProjects\shareProject\Switches\Default Work Unit.wwu" DateLow="1701811357" DateHigh="0"/>
