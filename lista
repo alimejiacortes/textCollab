@@ -4,5 +4,8 @@ void start(){
 
 void update(){
 Debug.Log("Ali Mejia");
-Debug.Log("Juan Garcia);
+Debug.Log("Juan Garcia");
+
+Debug.Log("Jonatan Mejia");
+
 }
